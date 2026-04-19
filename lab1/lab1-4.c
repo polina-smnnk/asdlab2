@@ -6,7 +6,7 @@ int main(void)
     double x;
     int n;
 
-    printf("iterative: Variant 27\n");
+   
     printf("F1 = 4/3\n");
     printf("Fi+1 = Fi * (1 - 4x/3)\n");
     printf("Sum(Fi) = 1/x\n\n");
